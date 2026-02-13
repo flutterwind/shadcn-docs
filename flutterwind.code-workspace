@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../flutterwind"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../shadcn_flutter"
+		}
+	],
+	"settings": {
+		"java.compile.nullAnalysis.mode": "automatic"
+	}
+}
